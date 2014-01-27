@@ -4,10 +4,10 @@ echo " please provide action requested "
 echo "--list_open_virt_interfaces:
         requires: null
         produces all host with active virtual interface."
-echo " --server_host: 
+echo "--server_host: 
         requires instance id
         produces server instance is hosted on"
-echo " --instance_detail:
+echo "--instance_detail:
         requires instance id
         produces detailed instance meta data"
 echo "--boot_instance:
