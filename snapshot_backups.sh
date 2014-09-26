@@ -6,7 +6,7 @@
 
 
 
-auth="--os-username admin --os-password 731d7679ce7345eb --os-tenant-name admin --os-auth-url http://10.177.95.20:5000/v2.0/"
+auth="--os-username admin --os-password yo_mama --os-tenant-name admin --os-auth-url http://10.0.0.1:5000/v2.0/"
 export PATH=/usr/bin:/bin
 
 
